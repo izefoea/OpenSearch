@@ -10,7 +10,7 @@ jobs:
   gradle-check:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout OpenSearch repo (VULNERABLE: Checks out PR code)
+      - name: "Checkout OpenSearch repo (VULNERABLE: Checks out PR code)"
         uses: actions/checkout@v6
         with:
           ref: ${{ github.event.pull_request.head.sha }}
