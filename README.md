@@ -18,7 +18,7 @@
 - [Copyright](#copyright)
 - [Trademark](#trademark)
 
-## Welcome!
+## Welcome!1
 
 OpenSearch is an open-source, enterprise-grade search and observability suite that brings order to unstructured data at scale.
 
